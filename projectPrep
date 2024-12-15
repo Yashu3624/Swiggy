@@ -1,0 +1,11 @@
+    <script type = "module" src="src/App.js"></script>
+By specifying type="module", you're telling the browser that App.js contains ES6 module code,
+allowing you to use features like import, export, and more.
+
+
+
+
+
+
+
+
